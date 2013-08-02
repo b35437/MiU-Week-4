@@ -11,8 +11,6 @@ Term: 1307
 	}
 	
 $('#goldPg').on('pageinit', function(){
-
-/*
 		//variables for document ID
 		var equipmentBtn = byId('equipmentBtn'),
 			slotBtn = byId('slotBtn'),
@@ -56,7 +54,6 @@ $('#goldPg').on('pageinit', function(){
 				}
 			}
 		}
-		*/
 });	
 
 $('#addItem').on('pageinit', function(){
